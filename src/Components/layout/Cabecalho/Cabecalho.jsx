@@ -1,15 +1,9 @@
-import Menu from "../Menu/Menu";
-import estilos from "./Cabecalho.module.css";
+import Menu from "../Menu";
 const Cabecalho = () => {
   return (
     <>
-      <header
-        style={{
-          backgroundColor: "#f7f7f7",
-          textAlign: "center",
-        }}
-      >
-        <h1 className={estilos.titulo}>
+      <header>
+        <h1>
           Criando um mini projeto utiizando Vite+React
         </h1>
         <Menu />
