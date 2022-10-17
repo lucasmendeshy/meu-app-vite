@@ -5,7 +5,6 @@ import Home from "./pages/Home";
 import Produtos from "./pages/Produtos";
 import Servicos from "./pages/Servicos";
 
-
 const App = () => {
   return (
     <>
