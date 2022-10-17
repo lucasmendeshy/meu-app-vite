@@ -1,12 +1,11 @@
-body {
-    margin: 0;
-    padding: 0;
-    font-family: 'Merriweather', serif;
-    background-color: powderblue;
+/* h1 {
+    text-align: center;
+} */
+
+.titulo{
+    color: red;
 }
 
-.titulo { 
-    text-align: center;
-    font-size: 3rem; 
- }
-
+.texto{
+    background-color: red;
+}

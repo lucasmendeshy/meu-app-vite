@@ -1,8 +1,9 @@
+import estilos from "./Rodape.module.css";
 const Rodape = () => {
   return (
     <>
-      <footer>
-        <h2>Rodapé!</h2>
+      <footer className={estilos.rodape}>
+        <h2 className={estilos.texto}>Rodapé!</h2>
       </footer>
     </>
   );

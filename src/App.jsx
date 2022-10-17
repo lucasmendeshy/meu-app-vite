@@ -4,6 +4,7 @@ import Rodape from "./Components/layout/Rodape/Rodape";
 import Home from "./pages/Home";
 import Produtos from "./pages/Produtos";
 import Servicos from "./pages/Servicos";
+import "./App.css";
 
 const App = () => {
   return (
@@ -25,11 +26,9 @@ const App = () => {
          <Servicos />
         </Route>
 
-        <Route>
-         <Rodape />
-        </Route>
-
        </Switch>
+
+         <Rodape />
      </BrowserRouter>  
     </>
   );
