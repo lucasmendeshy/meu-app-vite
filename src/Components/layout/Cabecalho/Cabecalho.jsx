@@ -1,4 +1,4 @@
-import Menu from "../Menu";
+import Menu from "../Menu/Menu";
 import estilos from "./Cabecalho.module.css";
 const Cabecalho = () => {
   return (
