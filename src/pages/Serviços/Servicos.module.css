@@ -1,0 +1,10 @@
+.servicos {
+    border: solid white;
+    margin: 10px;  
+  }
+  
+  .titulo{
+      text-align: center;
+      font-family: 'Oswald', sans-serif;
+      font-size: 2rem;
+  }

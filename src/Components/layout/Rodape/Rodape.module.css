@@ -1,5 +1,9 @@
 .rodape {
     line-height: 40px;
     background-color: papayawhip;
+    font-family: 'Oswald', sans-serif;
+}
+.texto {
+    text-align: center;
 }
 

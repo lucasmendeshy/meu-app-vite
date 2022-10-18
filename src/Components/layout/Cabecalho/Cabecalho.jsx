@@ -4,7 +4,7 @@ const Cabecalho = () => {
   return (
     <>
        <header>
-         <h1 class={estilos.titulo}>
+         <h1 className={estilos.titulo}>
            Vite + React
          </h1>
          <Menu />
