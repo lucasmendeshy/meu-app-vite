@@ -3,8 +3,8 @@ import estilos from "./Cabecalho.module.css";
 const Cabecalho = () => {
   return (
     <>
-       <header className={estilos.texto}>
-         <h1 class="titulo" >
+       <header>
+         <h1 class={estilos.titulo}>
            Vite + React
          </h1>
          <Menu />
